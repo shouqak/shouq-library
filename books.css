@@ -1,0 +1,40 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  background-color: #fff7f3;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.container {
+  align-items: center;
+  margin: 2%;
+}
+.book-cover {
+  background-color: #fff;
+  border-radius: 10px;
+  text-align: center;
+  width: 90%;
+  height: 100%;
+  margin: 2%;
+  padding: 2%;
+}
+.book-info h2 {
+  color: #c599b6;
+  font-size: 2em;
+  margin-top: 0;
+}
+p,
+h4,
+h5,
+h6 {
+  color: #c599b6;
+  font-size: 1.5em;
+}
+img {
+  height:50%;
+  height: auto;
+  border-radius: 10px;
+}
