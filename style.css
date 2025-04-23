@@ -29,6 +29,10 @@ body {
   align-items: center;
   margin: 2%;
 }
+.books-cover{
+    width: 20%;
+
+}
 .book {
   background-color: #fff;
   border-radius: 10px;
@@ -62,7 +66,7 @@ button {
   margin: 2% 1%;
   border-radius: 5px;
 }
-.book button:hover {
+button:hover {
   background-color: #c599b6;
   cursor: pointer;
 }
